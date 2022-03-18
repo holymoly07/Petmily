@@ -3,6 +3,10 @@
 [![Video Label](https://user-images.githubusercontent.com/89058176/158616270-fe89b217-90d9-4b82-85e7-5e50081a7aca.jpg)](https://www.youtube.com/watch?v=teV65V_MJAk)
 ### 사진을 누르시면 유튜브로 이동됩니다.
 <br><br>
+# 사이트 시연 영상(관리자)
+[![Video Label](https://user-images.githubusercontent.com/89058176/158616270-fe89b217-90d9-4b82-85e7-5e50081a7aca.jpg)](https://youtu.be/5Jvzo9UvftI)
+### 사진을 누르시면 유튜브로 이동됩니다.
+<br><br>
 # 팀원
 * 조장(윤세종)
 * 팀원(김진하)

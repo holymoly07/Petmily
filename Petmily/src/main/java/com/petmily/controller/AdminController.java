@@ -26,7 +26,7 @@ public class AdminController {
 	@Autowired
 	AdminService adminservice;
 
-	@Autowired
+	@Autowired 
 	ServletContext servletContext;
 
 	@GetMapping(value = "/admin_membership")

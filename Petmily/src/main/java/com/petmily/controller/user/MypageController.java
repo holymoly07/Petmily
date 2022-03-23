@@ -69,7 +69,7 @@ public class MypageController {
 	}
 
 	// 마이페이지_유저 수정(Post)
-	@PostMapping(value = "usermodify")
+	@PostMapping(value = "usermodify") 
 	public String userModify(@ModelAttribute User user, Model model) {
 		String user_id = (String) session.getAttribute("user_id");
 		try {

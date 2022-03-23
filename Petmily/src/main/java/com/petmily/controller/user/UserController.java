@@ -92,6 +92,7 @@ public class UserController {
 			e.printStackTrace();
 			/* System.out.println("실패 뚜둥"); */
 		}
+		mav.setViewName("redirect:/");
 		return mav;
 	}
 
